@@ -201,14 +201,6 @@ Essa etapa demonstra como o padrão **Abstract Factory** pode ser utilizado para
 
 ---
 
-## 🏭 Abstract Factory
-
-O diagrama abaixo representa as principais relações entre a `MontadoraFactory`, suas fábricas concretas e os produtos das famílias Fiat e Volkswagen.
-
-![Diagrama de Classes - Abstract Factory](diagrama-classes.png)
-
----
-
 # 🗂️ Estrutura do Projeto
 
 ```text
