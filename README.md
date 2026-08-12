@@ -10,6 +10,11 @@ Projeto desenvolvido em **Java** com **Java Swing** para demonstrar, na prática
 * **Rebeca Matewanga**
 
 ---
+# 📊 Diagrama de Classes
+
+![Diagrama de Classes](diagrama-classes.png)
+
+---
 
 ## 📚 Sobre o Projeto
 
@@ -195,8 +200,6 @@ VolksFactory
 Essa etapa demonstra como o padrão **Abstract Factory** pode ser utilizado para organizar famílias de produtos relacionados e permitir a evolução do sistema.
 
 ---
-
-# 📊 Diagrama de Classes
 
 ## 🏭 Abstract Factory
 
