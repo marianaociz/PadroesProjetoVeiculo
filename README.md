@@ -12,7 +12,7 @@ Projeto desenvolvido em **Java** com **Java Swing** para demonstrar, na prática
 ---
 # 📊 Diagrama de Classes
 
-![Diagrama de Classes](diagrama-classes.png)
+![Diagrama de Classes](Diagrama-classes.png)
 
 ---
 
